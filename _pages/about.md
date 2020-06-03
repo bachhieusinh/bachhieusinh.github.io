@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: Về tôi
+title: Thông tin Về Tôi
 published: true
 ---
 

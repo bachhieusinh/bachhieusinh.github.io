@@ -1,6 +1,5 @@
 ---
-title: "Posts by Tag"
+title: "Các thẻ (tags) phổ biến"
 permalink: /tags/
 layout: tags
-author_profile: true
 ---

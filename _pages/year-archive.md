@@ -1,6 +1,5 @@
 ---
-title: "Posts by Year"
+title: "Bài đăng theo năm"
 permalink: /posts/
 layout: posts
-author_profile: true
 ---

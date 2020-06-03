@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: Thông tin Về Tôi
+title: Góc chia sẽ thông tin
 published: true
 ---
 

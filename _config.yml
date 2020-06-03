@@ -80,7 +80,7 @@ author:
 
 footer:
   links:
-   - label: "Email"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:hieusinhbach@gmail.com"
     #- label: "Twitter"

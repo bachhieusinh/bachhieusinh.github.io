@@ -1,5 +1,5 @@
 ---
-title: "Bài đăng theo năm"
+title: "Bài viết theo năm"
 permalink: /posts/
 layout: posts
 ---

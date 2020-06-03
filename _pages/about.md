@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: About
+title: Về tôi
 published: true
 ---
 

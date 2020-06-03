@@ -1,5 +1,5 @@
 ---
-title: "Bài đăng theo thể loại"
+title: "Phân loại bài viết"
 layout: categories
 permalink: /categories/
 ---
